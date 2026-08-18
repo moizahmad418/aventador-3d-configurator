@@ -41,6 +41,13 @@ The demo can also be built for static hosting. All HTML/JS/CSS and asset files w
 * Use mouse wheel to zoom-in or zoom-out.
 * Select any of the options at the bottom of the screen to customize .
 
+## Portfolio Author
+
+**Moiz Ahmad**
+
+- Email: moizahmad418@gmail.com
+- LinkedIn: https://www.linkedin.com/in/moizahmad418
+
 ### Dependencies
 The project depends on the following libraries
 1. [Three.js](https://github.com/mrdoob/three.js/)
