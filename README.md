@@ -1,11 +1,11 @@
-# Automotive Configurator (ThreeJS)
+# Aventador 3D Configurator (ThreeJS)
 ---
 A web demo app for configuring the visual look of a retail car using WebGL rendering. The project was created using ThreeJS WebGL library with model formats in glTF.
 
-#### [Original Live Demo](https://rendercodeninja.github.io/automotive-configurator)
+#### [Original Live Demo](https://moizahmad418.github.io/aventador-3d-configurator/)
 
 > **Deploying your own copy?** See [DEPLOYMENT.md](DEPLOYMENT.md). The workflow
-> builds and publishes automatically, and works under any repository name.
+> builds and publishes automatically.
 
 &nbsp;
 ![alt text](https://raw.githubusercontent.com/RendercodeNinja/automotive-configurator/main/thumbs/screenshot_0a.jpg)
@@ -23,7 +23,7 @@ Make sure the following requirements are met.
 The demo now uses webpack and webpack-dev-server for easy development with hot-loading features and is quiet easy to run by following the steps mentioned below
 
 * Make sure Node and npm are installed.
-* Clone the repository to any convenient folder using `git clone https://github.com/RendercodeNinja/automotive-configurator.git`
+* Clone the repository to any convenient folder using `git clone https://github.com/moizahmad418/aventador-3d-configurator.git`
 * Run `npm install` to install all dependency libraries.
 * Run `npm run dev` to start the webpack development server.
 * The app will be served on `https://localhost:5000`
