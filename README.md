@@ -28,7 +28,7 @@ The demo now uses webpack and webpack-dev-server for easy development with hot-l
 * Run `npm run dev` to start the webpack development server.
 * The app will be served on `https://localhost:5000`
 
-![alt text](https://raw.githubusercontent.com/RendercodeNinja/automotive-configurator/main/thumbs/screenshot_0b.jpg)
+![alt text](https://raw.githubusercontent.com/moizahmad418/aventador-3d-configurator/main/thumbs/screenshot_0b.jpg)
 
 ### Building the demo
 The demo can also be built for static hosting. All HTML/JS/CSS and asset files will be packed into the `build` folder. Build files should be hosted through a server to avoid CORS Policy blocking by browsers. You can create a build by running the following command
